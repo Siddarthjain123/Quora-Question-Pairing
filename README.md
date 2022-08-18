@@ -5,4 +5,6 @@ Objective is to predict which of the provided pairs of questions contain two que
 
 • Performed feature extraction and extracted 20+ features with tf-idf weighted word2vec and fuzz ratio.
 
-• Implemented models with Randomised Search CV and obtained best f1 score as 0.86 and log-loss error of 0.36
+• Implemented models with Randomised Search CV and obtained best f1 score as 0.86 and log-loss error of 0.36 with the xgboost technique.
+
+

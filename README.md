@@ -7,5 +7,5 @@ Objective is to predict which of the provided pairs of questions contain two que
 
 • Implemented models with Randomised Search CV and obtained best f1 score as 0.86 and log-loss error of 0.36 with the xgboost technique.
 
-Libraries used : NLTK, pandas , Numpy , Sklearn 
+Libraries used : NLTK, pandas , Numpy , Sklearn , fuzzywuzzy , wordcloud
 

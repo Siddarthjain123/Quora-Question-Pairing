@@ -9,3 +9,18 @@ Objective is to predict which of the provided pairs of questions contain two que
 
 Libraries used : NLTK, pandas , Numpy , Sklearn , fuzzywuzzy , wordcloud
 
+##Pipeline used:
+
+Exploratory Data Analysis
+
+Feature Engineering
+
+Text Preprocessing Techniques
+
+Generating Word embeddings
+
+Train Test Split
+
+Logistic Regression and Linear SVM With Hyperparameter Tuning
+
+Xgboost with hyperparameter tuning
